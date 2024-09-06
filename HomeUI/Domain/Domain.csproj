@@ -8,11 +8,8 @@
 
   <ItemGroup>
     <Folder Include="EntityDto\" />
-    <Folder Include="Entity\Home\" />
     <Folder Include="Entity\HomeService\" />
     <Folder Include="Entity\HomeSpareParts\" />
-    <Folder Include="Entity\Regions\District\" />
-    <Folder Include="Entity\Regions\Province\" />
     <Folder Include="Models\" />
   </ItemGroup>
 
