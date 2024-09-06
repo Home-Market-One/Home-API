@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entity\" />
     <Folder Include="EntityDto\" />
+    <Folder Include="Entity\Home\" />
+    <Folder Include="Entity\HomeService\" />
+    <Folder Include="Entity\HomeSpareParts\" />
     <Folder Include="Models\" />
   </ItemGroup>
 
