@@ -8,5 +8,6 @@ namespace Domain.Entity.Home
 {
     public  class HomeRent : HomeBase
     {
+
     }
 }
